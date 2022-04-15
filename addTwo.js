@@ -2,7 +2,7 @@ const addTwo = (first, second) => {
 	return(first + second);
 }
 
-let first  = 20;
-let second = 30;
+const first  = 20;
+const second = 30;
 
 console.log(addtwo(first, second));

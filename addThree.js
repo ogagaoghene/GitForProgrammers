@@ -2,8 +2,8 @@ function addThree(first, second, third) {
 	return (first + second + third);
 }
 
-let first  = 90;
-let second = 100;
-let third  = 300;
+const first  = 90;
+const second = 100;
+const third  = 300;
 
 console.log(addThree(first, second, third));
